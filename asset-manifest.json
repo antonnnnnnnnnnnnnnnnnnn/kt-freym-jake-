@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kt-freym-jake-/static/css/main.0dc9fa72.css",
+    "main.js": "/kt-freym-jake-/static/js/main.77ece7d4.js",
+    "index.html": "/kt-freym-jake-/index.html",
+    "main.0dc9fa72.css.map": "/kt-freym-jake-/static/css/main.0dc9fa72.css.map",
+    "main.77ece7d4.js.map": "/kt-freym-jake-/static/js/main.77ece7d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc9fa72.css",
+    "static/js/main.77ece7d4.js"
+  ]
+}
